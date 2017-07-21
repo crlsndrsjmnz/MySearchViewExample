@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MySearchViewExample</string>
+    <string name="message">No search performed</string>
+</resources>
