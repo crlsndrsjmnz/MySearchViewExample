@@ -15,3 +15,7 @@ The main files to look on this project are:
 * [menu_main.xml](https://github.com/crlsndrsjmnz/MySearchViewExample/blob/master/app/src/main/res/menu/menu_main.xml)
 
     In here you setup the collapsable `SearchView` as a menu item that stays collapsed until the user clicks and expands to be able to perform the search.
+
+You can also find more information about the `SearchView` on the link below:
+
+* [Search Overview](https://developer.android.com/guide/topics/search/index.html)
